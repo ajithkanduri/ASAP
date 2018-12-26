@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="15dp">
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="176dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="62dp"
+        android:layout_marginTop="26dp"
+        android:text="Received" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="178dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/checkBox"
+        android:layout_marginTop="72dp"
+        android:text="Delivered To Delivery Boy" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="177dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/checkBox"
+        android:layout_marginTop="121dp"
+        android:text="Delete This Order!" />
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ASAP</string>
+    <string name="title_activity_delivery_boy">DeliveryBoy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_restaurant_owner">RestaurantOwner</string>
+    <string name="title_activity_restaurant">Restaurant</string>
+    <string name="title_activity_resataurant_owner">ResataurantOwner</string>
+    <string-array name="spinnerItems">
+        <item>Non Veg Main Course</item>
+        <item>Non Veg Starters</item>
+        <item>Veg Main Course</item>
+        <item>Veg Starters</item>
+    </string-array>
+</resources>
